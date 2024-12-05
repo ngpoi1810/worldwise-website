@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "id": "70a2",
+      "cityName": "Paradinas de San Juan",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-01T08:36:01.977Z",
+      "notes": "",
+      "position": {
+        "lat": "40.96330795307353",
+        "lng": "-5.185546875000001"
+      }
+    },
+    {
+      "id": "4d0a",
+      "cityName": "Landos",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-10-01T08:42:30.228Z",
+      "notes": "",
+      "position": {
+        "lat": "44.84029065139799",
+        "lng": "3.8452148437500004"
+      }
+    },
+    {
+      "id": "0051",
+      "cityName": "Siguenza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-11T07:41:14.153Z",
+      "notes": "",
+      "position": {
+        "lat": "41.09591205639546",
+        "lng": "-2.65869140625"
+      }
+    },
+    {
+      "id": "6f9d",
+      "cityName": "Siruela",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-12-05T08:56:50.332Z",
+      "notes": "",
+      "position": {
+        "lat": "39.01064750994083",
+        "lng": "-5.009765625000001"
+      }
+    },
+    {
+      "id": "c4f8",
+      "cityName": "Castelo Branco",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-12-05T08:56:53.721Z",
+      "notes": "",
+      "position": {
+        "lat": "39.6733703917656",
+        "lng": "-7.514648437500001"
+      }
+    },
+    {
+      "id": "2ca9",
+      "cityName": "Yeste",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-12-05T08:56:56.285Z",
+      "notes": "",
+      "position": {
+        "lat": "38.30718056188316",
+        "lng": "-2.3510742187500004"
+      }
+    }
+  ]
+}
